@@ -1,12 +1,13 @@
 import React from "react";
-import { ThreeCircles } from "react-loader-spinner";
+import { MutatingDots } from "react-loader-spinner";
+
 const Loading = ({
   size = 80,
   color = "#4fa94d",
   text = "Loading",
-  showCircles = true,
-  circleSize = 100,
-  circleColor = "#4fa94d",
+  showDots = true,
+  dotSize = 100,
+  dotColor = "#4fa94d",
   textColor = "green",
   textStyle = {},
 }) => {
@@ -19,29 +20,26 @@ const Loading = ({
         justifyContent: "center",
         alignItems: "center",
         flexDirection: "column",
-        gap: "5px",
+        gap: "10px",
       }}
     >
-      {showCircles && (
-        <ThreeCircles
-          height={circleSize}
-          width={circleSize}
-          color={circleColor}
-          wrapperStyle={{}}
-          wrapperClass=""
+      {showDots && (
+        <MutatingDots
+          height={dotSize}
+          width={dotSize}
+          color={dotColor}
+          secondaryColor={dotColor}
+          radius="12.5"
+          ariaLabel="mutating-dots-loading"
           visible={true}
-          ariaLabel="three-circles-rotating"
-          outerCircleColor=""
-          innerCircleColor=""
-          middleCircleColor=""
         />
       )}
       <span
         style={{
           fontSize: "30px",
           color: textColor,
-          fontWeight: "bolder",
-          letterSpacing: "2px",
+          fontWeight: "bold",
+          letterSpacing: "1.5px",
           ...textStyle,
         }}
       >
@@ -50,4 +48,5 @@ const Loading = ({
     </div>
   );
 };
+
 export default Loading;
