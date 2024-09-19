@@ -32,12 +32,14 @@ Ensured the Kanban board is responsive and offers an intuitive UI, enabling user
 
 <table>
   <tr>
-    <td><img src="https://via.placeholder.com/300" alt="Image 1" /></td>
-    <td><img src="https://via.placeholder.com/300" alt="Image 2" /></td>
+    ![Pic1](https://github.com/user-attachments/assets/bed63a6b-40c9-410d-9a72-9e18315ca61f)
+    ![Pic2](https://github.com/user-attachments/assets/e1843f42-84f0-446a-a381-cd9390e6eeb2)
+    
   </tr>
   <tr> 
-    <td><img src="https://via.placeholder.com/300" alt="Image 3" /></td>
-    <td><img src="https://via.placeholder.com/300" alt="Image 4" /></td>
+    ![Pic3](https://github.com/user-attachments/assets/857c3588-2a5b-48c9-8d7f-10eb3e347d78)
+    ![Pic4](https://github.com/user-attachments/assets/88740768-e415-4d25-8377-a4536581d5d9)
+
   </tr>
 </table>
 
