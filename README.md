@@ -29,14 +29,7 @@ Ensured the Kanban board is responsive and offers an intuitive UI, enabling user
 
 
 ## Some Glimpse of My Kanban-Board Application:
-
-
-    ![Pic1](https://github.com/user-attachments/assets/bed63a6b-40c9-410d-9a72-9e18315ca61f)
-    ![Pic2](https://github.com/user-attachments/assets/e1843f42-84f0-446a-a381-cd9390e6eeb2)
-    
- 
-    ![Pic3](https://github.com/user-attachments/assets/857c3588-2a5b-48c9-8d7f-10eb3e347d78)
-    ![Pic4](https://github.com/user-attachments/assets/88740768-e415-4d25-8377-a4536581d5d9)
+![Pic1](https://github.com/user-attachments/assets/42bafc8a-e235-4873-a52a-b7c6a48bd8e7)
 
 
 © 2024 Raju Kar
