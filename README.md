@@ -1,4 +1,4 @@
-# Quicksell-Frontend-assignment
+#Cloud Computing-assignment
 
 ## 📌About Project:
 Developed a React-based Kanban board application that integrates with the Quicksell API.
